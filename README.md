@@ -1,2 +1,2 @@
 # XPREDICT
-Explainable Drug Repurposing using SHAP explanations
+Explainable Drug Repositioning using SHAP explanations
